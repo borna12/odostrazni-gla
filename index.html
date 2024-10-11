@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="hr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Odostražni rječnik RCJHR</title>
+    <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="description" content="Odostražni rječnik rađen na temelju abecedarija Hrvatskoga mrežnoga rječnika – Mrežnika.">
+    <meta name="keywords" content="odostražni rječnik, Mrežnik, akcenti, hrvatski jezik">
+    <meta name="author" content="Institut za hrvatski jezik i jezikoslovlje">
+    <meta property="og:title" content="Odostražni rječnik Mrežnika" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="og.jpg" />
+    <meta property="og:description" 
+  content="Odostražni rječnik rađen na temelju abecedarija Hrvatskoga mrežnoga rječnika – Mrežnika." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="jquery-3.2.1.min.js"></script>
+    <link rel="stylesheet" href="sweetalert2.min.css">
+    <link rel="stylesheet" type="text/css" href="stil.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+    <script src="sweetalert2.min.js"></script>
+    <script src="index.min.js"></script>
+
+</head>
+
+<body>
+    <div style="text-align:center; background:white; margin: 0px;">
+        <img src="logo.png" style="display: block; margin: auto; padding-top: 10px; width:300px">
+        <h2 style="text-align:center; margin-top:0;margin-bottom: 20px;">odostražni rječnik crkvenoslavenskoga<br>jezika hrvatske redakcije<br></h2>
+        <input class="style-3" type="text" id="filter" placeholder="Upiši kraj riječi..." onfocus="this.placeholder = ''" onblur="this.placeholder = 'Upiši kraj riječi...'" />
+        <button id="nadi">pronađi</button>
+        <br>
+        <br>
+    </div>
+    <a href="#" class="scrollToTop">
+        <div id='top'>&#x279C;</div>
+    </a>
+    <hr>
+    <p id="feddback"></p>
+
+    <ul class="player-position" style="display:none;">
+        <li class="qb current">QB</li>
+        <li class="rb">RB</li>
+        <li class="all">ALL</li>
+    </ul>
+
+    <div class="available-player">
+        <h1 id="poruka" style="text-align:center;display:none;">Nema rezultata ☹.</h1>
+
+        <div class="qb">
+            <ul id="JSONunorderedList">
+
+            </ul>
+        </div>
+        <div class="rb" style="display:none;">
+            <ul>
+
+            </ul>
+        </div>
+        <div class="all" style="display:none;">
+            <ul>
+            </ul>
+        </div>
+    </div>
+
+    <br>
+    <br>
+    <footer style="text-align:center; background:white;">
+        <hr>
+
+        <p>© <span id="year"></span> Institut za hrvatski jezik i jezikoslovlje</p>
+    </footer>
+    <script>
+        document.getElementById("year").innerHTML = new Date().getFullYear();
+        window.lazyLoadOptions = {
+            threshold: 50
+        };
+        window.addEventListener('LazyLoad::Initialized', function(e) {
+            console.log(e.detail.instance);
+        }, false);
+
+        $(document).ready(function() {
+
+            //Check to see if the window is top if not then display button
+            $(window).scroll(function() {
+                if ($(this).scrollTop() > 100) {
+                    $('.scrollToTop').fadeIn();
+                } else {
+                    $('.scrollToTop').fadeOut();
+                }
+            });
+
+            //Click event to scroll to top
+            $('.scrollToTop').click(function() {
+                $('html, body').animate({
+                    scrollTop: 0
+                }, 800);
+                return false;
+            });
+
+        });
+    </script>
+    <script src="lazyload.min.js"></script>
+
+</body>
+
+</html>
