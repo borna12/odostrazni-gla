@@ -1,3 +1,13 @@
+@font-face {
+  font-family: 'FSGLA';
+  src: url('fonts/FSGLAA.woff2') format('woff2'),
+      url('fonts/FSGLAA.woff') format('woff'),
+      url('fonts/FSGLAA.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 body {
   font-family: sans-serif;
   margin: auto;
