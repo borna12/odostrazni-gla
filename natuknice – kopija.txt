@@ -553,9 +553,9 @@ ahacь
 ahimь
 ahina
 ahiorь
-aĉe
-aĉe i
-aĉe li
+aće
+aće i
+aće li
 acintinь
 acintenь
 acintь
@@ -604,7 +604,7 @@ bardunь
 barilь
 barimь
 barioninь
-baromiĉь
+baromićь
 baronь
 barunь
 bartolь
@@ -618,7 +618,7 @@ basiliê
 basnь
 batogь
 batorno
-batriĉь
+batrićь
 batь
 bauciê
 bahorica
@@ -770,7 +770,7 @@ besumno
 beshramьnь
 bescênьnь
 besêda
-besêdiliĉe
+besêdiliće
 besêdovati
 betegь
 betežьnь
@@ -779,19 +779,19 @@ betoronь
 betsalcešь
 betsanь
 betsura
-beĉedie
-beĉediti
-beĉedьnь
-beĉestьnь
-beĉinie
-beĉinoû
-beĉislьno
-beĉislьnь
-beĉ'stvie
-beĉ'stvo
-beĉ'stvovati
-beĉ'stie
-beĉ'stьnь
+bećedie
+bećediti
+bećedьnь
+bećestьnь
+bećinie
+bećinoû
+bećislьno
+bećislьnь
+beć'stvie
+beć'stvo
+beć'stvovati
+beć'stie
+beć'stьnь
 bibera
 bibliê
 bivati
@@ -847,8 +847,8 @@ blagovêstno
 blagovêstovanie
 blagovêstovati
 blagovêststvovati
-blagovêĉati
-blagovêĉenie
+blagovêćati
+blagovêćenie
 blagoglasьnь
 blagodarie
 blagodarstvovati
@@ -990,8 +990,8 @@ blûû
 blûeši
 blьskati se
 blьsnuti
-blьĉanie
-blьĉati (se)
+blьćanie
+blьćati (se)
 blêdostь
 blêdь
 blêdênie
@@ -1041,8 +1041,8 @@ boemiê
 boecii
 božarь
 boži
-božiĉь
-božiĉьnь
+božićь
+božićьnь
 božica
 bož'ski
 bož'skь
@@ -1067,7 +1067,7 @@ bolee
 bolše
 boleslavlь
 boleslavь
-boleĉь
+bolećь
 boli
 bolši
 bolnikь
@@ -1088,7 +1088,7 @@ bonifacii
 bonifatь
 bonoventa
 borenie
-borislaviĉь
+borislavićь
 boritelь
 borovnica
 borьcь
@@ -1171,8 +1171,8 @@ brodь
 broždenie
 broi
 bronь
-broĉь
-broĉьnь
+broćь
+broćьnь
 brьviêlь
 brьvno
 brьgundiê
@@ -1197,7 +1197,7 @@ brêgь
 brêždь
 brêza
 brême
-brêĉi
+brêći
 brьgu
 brьžeši
 bubnanie
@@ -1209,7 +1209,7 @@ bugь
 budinь
 budinьskь
 buditi
-buduĉi
+budući
 bue
 buevstvo
 buestvo
@@ -1365,10 +1365,10 @@ vasta
 vatuilь
 vau
 vaha
-vaĉenie
-vaĉina
-vaĉiniti se
-vaĉinьnь
+vaćenie
+vaćina
+vaćiniti se
+vaćinьnь
 vašь
 vbiti
 vbosti
@@ -1377,11 +1377,11 @@ v'vezovati
 v'vesti
 vviknuti se
 v'vlačiti
-v'vlêĉi
+v'vlêći
 v'voditi
 v'voždenie
 vvrьženie
-v'vrêĉi
+v'vrêći
 vgvozditi
 vglubiti
 vgnêzditi
@@ -1410,7 +1410,7 @@ vdunuti
 vdupliti
 vdêvati
 vdêdiniti
-vdêdiĉiti
+vdêdićiti
 vdêti
 vedenie
 v'edinati
@@ -1516,13 +1516,13 @@ vetsamêemь
 vethostь
 vetšina
 vetьhь
-veĉe
-veĉeslavlь
-veĉeslavь
-veĉi
-veĉšimi
-veĉšina
-veĉь
+veće
+većeslavlь
+većeslavь
+veći
+većšimi
+većšina
+većь
 večera
 večeratelnica
 večerati
@@ -1542,7 +1542,7 @@ vždelêti
 vželêti
 vžeženie
 vželêtelьnь
-vžeĉi
+vžeći
 vьžgu
 vьžeši
 vžiganie
@@ -1599,19 +1599,19 @@ vzvladati
 vzvoditi (se)
 vzvoniti
 vzvratiti (se)
-vzvraĉati (se)
-vzvraĉenie
+vzvraćati (se)
+vzvraćenie
 vzvrьčiti
-vzvrêĉi
+vzvrêći
 vzvêrovanie
 vzvêrovati
 vzvêsiti (se)
 vzvêstitelь
 v'zvêstiti
 vzvêstovati
-v'zvêĉati
-vzvêĉevati
-vzvêĉenie
+v'zvêćati
+vzvêćevati
+vzvêćenie
 vzvêêti
 vzgarati (se)
 vzglavie
@@ -1725,7 +1725,7 @@ vzlaêti
 vzležati
 vzleženie
 vzletêti
-vzleĉi
+vzleći
 vzlivati
 vzliti se
 vzliêti (se)
@@ -1758,13 +1758,13 @@ vzmož'stvie
 vzmožьnь
 vzmolati
 vzmoliti
-vzmoĉi (se)
+vzmoći (se)
 vzmrьzstvovati
 vzmužati
 vzmutiti (se)
-vzmuĉati (se)
-vzmuĉevati
-vzmuĉenie
+vzmućati (se)
+vzmućevati
+vzmućenie
 vzmučiti (se)
 vzmêriti (se)
 vzmêtati
@@ -1773,9 +1773,9 @@ vznadêêti se
 vznakь
 vznašati (se)
 vznezdraviti
-vznemoĉi
+vznemoći
 idiši
-vznepĉevati
+vznepćevati
 vznesenie
 vznesti (se)
 seši
@@ -1795,7 +1795,7 @@ vzobrêzati
 vzobrêsti
 vzorati
 vzoritь
-vzoriĉe
+vzoriće
 vzorь
 vzostriti (se)
 vzoholiti se
@@ -1810,8 +1810,8 @@ vzrastenie
 vzrasti (se)
 vzrastiti
 vzrastь
-vzraĉati
-vzreĉi
+vzraćati
+vzreći
 vzridati (se)
 vzrinuti
 vzroditi
@@ -1827,7 +1827,7 @@ vz'sêdatelь
 vz'sêdnikь
 vzužasati
 vzupvati
-vzuĉenie
+vzućenie
 vzučiti
 vzučiti (se)
 vzčekati
@@ -1841,7 +1841,7 @@ vivariti
 vivesti
 viviêna
 bibiêna
-vivrêĉi
+vivrêći
 rьžeši
 vignati
 viženu
@@ -1896,7 +1896,7 @@ vipluti
 viprostirati
 viprostrêti (se)
 vipustiti
-vipuĉati
+vipućati
 virinuti
 virovati
 virsava
@@ -1997,7 +1997,7 @@ vkusь
 vkušati (se)
 vkušenie
 vlaga
-vlagaliĉe
+vlagaliće
 vlagati
 vladavьcь
 vladanie
@@ -2013,9 +2013,9 @@ vladičьskь
 vlaženie
 vlažiti
 vlažьnь
-vlaziliĉe
+vlaziliće
 vlaziti
-vlaziĉe
+vlaziće
 vlaspimisati
 vlaspimiti
 vlaspimiê
@@ -2031,9 +2031,9 @@ vlastьnь
 vlasь
 vlasênina
 vlasênь
-vlaĉeta
-vlaĉ'stvie
-vlaĉь
+vlaćeta
+vlać'stvie
+vlaćь
 vlačiti (se)
 vlaškь
 vlivati (se)
@@ -2047,7 +2047,7 @@ vloženie
 vložiti (se)
 vlьkanь
 vlьkodlakь
-vlьkohiĉьnь
+vlьkohićьnь
 vlьkь
 vlьna
 vlьnenie
@@ -2076,7 +2076,7 @@ vlêzenie
 vlêsti
 êzeši
 vlêtati
-vlêĉi (se)
+vlêći (se)
 êčeši
 vlêčenie
 vlûblenica
@@ -2095,7 +2095,7 @@ vmêsiti
 vmêstiti
 umêstiti (se)
 vmêsto
-vmêĉati (se)
+vmêćati (se)
 vmêšati
 vmêšenie
 vnaglê
@@ -2180,7 +2180,7 @@ voinь
 voinьskь
 voiska
 voistvo
-voiĉenь
+voićenь
 vola
 voldrihь
 vorihь
@@ -2204,8 +2204,8 @@ v'oružiti (se)
 voskь
 v'ostriti
 votušь
-voĉe
-voĉьnь
+voće
+voćьnь
 vpadati
 vpasti
 vpasti (se)
@@ -2214,26 +2214,26 @@ vpisati (se)
 išeši
 v'piti
 vplanuti
-vplaĉati
+vplaćati
 vplesti
 vpluti
 vplьzati
 vplьznuti
 vplьtiti (se)
-vplьĉenie
+vplьćenie
 vplьčati se
 vplьčenie
 vpovaditi
 v'poêšenь
 vprašanie
 vprašati
-vpreĉi
+vpreći
 vprositi
 vprosь
 vprošenie
 vprêki
 vprêti
-vprêĉevati
+vprêćevati
 vpustiti
 vraviê
 vravnati
@@ -2267,8 +2267,8 @@ vratnikь
 vratnice
 vratca
 vratь
-vraĉati (se)
-vraĉenie
+vraćati (se)
+vraćenie
 vračba
 vračevanie
 vračevьnь
@@ -2285,9 +2285,9 @@ vrinuti
 vrnezь
 vrutčьcь
 vrutьkь
-vruĉe
-vruĉostь
-vruĉь
+vruće
+vrućostь
+vrućь
 vrьba
 vrьbie
 vrьvь
@@ -2305,7 +2305,7 @@ vrьtьlь
 vrьtьpь
 vrьtьskь
 vrьtêti se
-vrьĉu
+vrьću
 vrьtiši
 vrьhovstvie
 vrьhovьnь
@@ -2334,18 +2334,18 @@ vrênie
 vrêti
 vru
 vriši
-vrêtiĉe
-vrêĉa
-vrêĉi (se)
+vrêtiće
+vrêća
+vrêći (se)
 vrьgu
 vrьžeši
-vrêĉi
+vrêći
 vrьšeši
-vrêĉiĉe
-vrêĉiĉьnь
-vrêĉica
-vrêĉice
-vrêĉьnь
+vrêćiće
+vrêćićьnь
+vrêćica
+vrêćice
+vrêćьnь
 vsaditi
 vsadnikь
 vsaždati
@@ -2369,8 +2369,8 @@ vselenь
 vseliti (se)
 vsemirьnь
 vsemogi
-vsemoguĉ
-vsemoguĉ'stvo
+vsemoguć
+vsemoguć'stvo
 vsilati
 vsiliti se
 vsinovlenie
@@ -2450,8 +2450,8 @@ vspitati
 vsplakati (se)
 vsplanuti (se)
 vsplatiti
-vsplaĉati
-vsplaĉenie
+vsplaćati
+vsplaćenie
 vspleskati
 vsplesti
 vspluti
@@ -2484,7 +2484,7 @@ vspriimati
 vsprinositi
 vspričati
 vspriêti (se)
-vsproreĉi
+vsproreći
 vsproroč'stvovati
 vsprositi
 vsprostrêti
@@ -2492,10 +2492,10 @@ vsprotiviti se
 vsprêbivati
 vsprêlûbodêêti se
 vsprêtiti
-vsprêĉavati
-vsprêĉevati
+vsprêćavati
+vsprêćevati
 vspustiti
-vspuĉati
+vspućati
 vspêvati
 vspênati se
 vspêti
@@ -2512,14 +2512,14 @@ vstegnuti
 vstezati se
 vsteklь
 vstepliti (se)
-vsteĉi
-vstlêĉi
+vsteći
+vstlêći
 vstoka
 vstokь
 vstočьnь
 vstrašiti se
 vstrepetati
-peĉeši
+pećeši
 vstresanie
 vstresti se
 vstrubiti
@@ -2544,10 +2544,10 @@ vshitati (se)
 vshititelь
 vshititi (se)
 vshitovati
-vshiĉati (se)
-vshiĉevati (se)
-vshiĉenie
-vshiĉenica
+vshićati (se)
+vshićevati (se)
+vshićenie
+vshićenica
 vshlaždenie
 vshlûpati
 v'shoditi (se)
@@ -2624,7 +2624,7 @@ vьzvrêti
 vьzd'hnovenie
 vьzl'stiti
 vьzm'zdie
-vьzm'ĉenie
+vьzm'ćenie
 vьzd'hnuti
 vьzrênie
 vьzrêti
@@ -2650,7 +2650,7 @@ vьšaleši
 vьsniti
 vьsь
 vьtkati
-vьt'ĉe
+vьt'će
 vьš'stvie
 vьš'stie
 vê
@@ -2711,14 +2711,14 @@ vêt'vь
 vêt'rь
 vêtrьnь
 vêtrьnьnь
-vêĉa
-vêĉanie
-vêĉati
-vêĉe
-vêĉnikь
-vêĉnica
-vêĉstvo
-vêĉьnstvo
+vêća
+vêćanie
+vêćati
+vêće
+vêćnikь
+vêćnica
+vêćstvo
+vêćьnstvo
 vêčno
 vêčnota
 vêčnê
@@ -2802,8 +2802,8 @@ ganfredь
 gardinalь
 grьdinalь
 gasiti
-gaĉe
-gaĉnikь
+gaće
+gaćnikь
 gacka
 gašparь
 gbotrь
@@ -2879,7 +2879,7 @@ gnilь
 gnoi
 gnoinь
 gnoênь
-gnoiĉe
+gnoiće
 gnusiti
 gnusitь
 gnusota
@@ -2913,7 +2913,7 @@ godiliê
 godina
 godinьnь
 goditi (se)
-godiĉe
+godiće
 godovati
 godoilevь
 goduilevь
@@ -2968,8 +2968,8 @@ gornь
 gorupno
 gorupostь
 gorupь
-goruĉe
-goruĉьnь
+goruće
+gorućьnь
 gorьkь
 gorьskь
 gorê
@@ -3024,7 +3024,7 @@ gramatika
 gramatikь
 gramota
 gramotiti
-gramoĉati
+gramoćati
 granь
 grapiûnь
 grebati
@@ -3075,7 +3075,7 @@ grьdь
 grьdê
 grьkь
 grьlica
-grьličiĉь
+grьličićь
 grьličь
 grьlo
 grьmie
@@ -3264,7 +3264,7 @@ desiti
 desnikь
 desnica
 desnь
-deĉi
+deći
 diapsalma
 divalь
 divii
@@ -3370,12 +3370,12 @@ dobrotvorьcь
 dobročьstivь
 dobrь
 dobrê
-dobrêĉi
+dobrêći
 dobьlь
 dovesti (se)
 dovesti
 dovlêti (se)
-dovlêĉi
+dovlêći
 dovoditelь
 dovoditi (se)
 dovole
@@ -3397,7 +3397,7 @@ dozvati
 dozrênie
 doizglagolati
 doizgovoriti
-doizreĉi
+doizreći
 doika
 doikinь
 doikь
@@ -3424,8 +3424,8 @@ dolьcь
 dolê
 doma
 domavьnь
-domaĉь
-domaĉьnь
+domaćь
+domaćьnь
 domačedьcь
 domašьnь
 dometiênь
@@ -3456,10 +3456,10 @@ dopisati
 dopluti
 dopoznati
 dopustiti
-dopuĉati
-dopuĉenie
+dopućati
+dopućenie
 dopêti (se)
-doreĉi
+doreći
 dorivati
 dorotii
 dorotêi
@@ -3476,7 +3476,7 @@ dosvrьšenie
 dosvrьšiti (se)
 dosežьnь
 doselê
-doseĉi
+doseći
 dositi
 doskončati
 doslužiti (se)
@@ -3503,7 +3503,7 @@ dosьzdati
 dota
 dotaimь
 dotegnuti
-doteĉati
+dotećati
 dotikati (se)
 dotolê
 dotrьpêti (se)
@@ -3666,7 +3666,7 @@ dьska
 dьhnovenie
 dьhnuti
 dьhnutie
-dьĉica
+dьćica
 dьêbolika
 dьêvlь
 dьêvolь
@@ -3729,7 +3729,7 @@ dêti
 dêti se
 dêtinstvo
 dêtirь
-dêtiĉь
+dêtićь
 dêtь
 dêtstvo
 dêtьskь
@@ -3828,10 +3828,10 @@ edinorodьnь
 edinoroždenь
 edinorožь
 edinosrьdno
-edinosuĉ'stvie
-edinosuĉ'stvo
-edinosuĉь
-edinosuĉьnь
+edinosuć'stvie
+edinosuć'stvo
+edinosućь
+edinosućьnь
 edinot'čьnь
 edinočedь
 edinoû
@@ -4135,7 +4135,7 @@ ehidievь
 ehidnovь
 ehinda
 ehoniê
-eĉe
+eće
 ečati
 ečmenь
 ečme(nь)nь
@@ -4149,9 +4149,9 @@ eûžupii
 eûp'taiskь
 eûptii
 eûptênini
-eûpĉanini
+eûpćanini
 eûptêninь
-eûpĉaninь
+eûpćaninь
 eûp'tьskь
 eûpьtь
 žaba
@@ -4233,7 +4233,7 @@ eûpьtь
 žeti (se)
 žanû
 žaneši
-žeĉi (se)
+žeći (se)
 žženie
 žžilati
 živina
@@ -4259,8 +4259,8 @@ eûpьtь
 žila
 žilbertь
 žilbrata
-žiliĉe
-žilniĉe
+žiliće
+žilniće
 žilь
 žirovati
 žirь
@@ -4278,7 +4278,7 @@ eûpьtь
 žitьkь
 žitьnь
 žitьskь
-žiĉe
+žiće
 žica
 žlьkostь
 žlьkčina
@@ -4294,8 +4294,8 @@ zlьčь
 žrьnovь
 žrьnovьnь
 žrьtva
-žrьtviliĉe
-žrьtviĉe
+žrьtviliće
+žrьtviće
 žrьtv'nikь
 žrьtvenikь
 žrьtvьnь
@@ -4316,7 +4316,7 @@ zlьčь
 županь
 župelь
 župelьnь
-žustoviĉь
+žustovićь
 žustь
 žьz'lь
 $
@@ -4343,14 +4343,14 @@ zavezanie
 zavezati (se)
 zavezenie
 zavesti
-zaveĉavati
-zaveĉati
-zaveĉevati
+zavećavati
+zavećati
+zavećevati
 zavida
 zavidlivo
 zavidlivь
 zavidlivьcь
-zavidoĉь
+zavidoćь
 zavidênie
 zavidêti
 zavistivь
@@ -4365,14 +4365,14 @@ zavlonь
 zavora
 zavorь
 zavoriti
-zavraĉati (se)
+zavraćati (se)
 zavrьšati (se)
 zavrьševati
 zavrьšenie
 zavrьšiti
 zavrêsti
 zavrêti
-zavrêĉi
+zavrêći
 zavьš'stie
 zaš'stie
 zavêdêi
@@ -4417,7 +4417,7 @@ zaedino
 zaedinь
 zaecь
 zažgati
-zažeĉi
+zažeći
 zažigati (se)
 zažizati
 zažganie
@@ -4543,16 +4543,16 @@ zapriseženie
 zaprêtati
 zaprêti
 zaprêtiti
-zaprêĉati
-zaprêĉevati
-zaprêĉenie
+zaprêćati
+zaprêćevati
+zaprêćenie
 zaprêčiti
 zapuditi
 zapustiti (se)
 zapustênie
 zapustêti
-zapuĉati
-zapuĉenie
+zapućati
+zapućenie
 zapêti
 zara
 zarana
@@ -4626,12 +4626,12 @@ zahvaliti
 zahoditi (se)
 zahodь
 zahranenie
-zaĉititelь
-zaĉititi (se)
-zaĉitnikь
-zaĉiĉati
-zaĉiĉevati
-zaĉiĉenie
+zaćititelь
+zaćititi (se)
+zaćitnikь
+zaćićati
+zaćićevati
+zaćićenie
 začelnikь
 začelo
 začelьnь
@@ -4673,7 +4673,7 @@ zvonьcь
 zvêzda
 zvêzdьnь
 zvêre
-zvêreĉь
+zvêrećь
 zvêrie
 zvêrii
 zvêrinь
@@ -4774,12 +4774,12 @@ zlopogledanie
 zloposeženie
 zlopostradati
 zlopohotênie
-zloreĉi
+zloreći
 zlorьv'nie
 zlos'vêtnikь
 zloslišanie
 zlosloviti
-zlosreĉnica
+zlosrećnica
 zlostь
 zlotvoriti
 zlotvorь
@@ -4908,11 +4908,11 @@ ižde
 iždeže
 iždeženie
 iždekona
-iždeĉi
+iždeći
 iždizati
 ižditi
 iže
-iže hoĉь
+iže hoćь
 iz
 izaharь
 izbavitelno
@@ -4933,12 +4933,12 @@ izbitьč'stvovati
 izbiêti
 izbluditi
 izblûvati
-izboriĉe
+izboriće
 izbosetь
 izbošetь
 izbosti
 izbošetovь
-izbošeĉь
+izbošećь
 izbranie
 izbranikь
 izbranь
@@ -4962,7 +4962,7 @@ izvisiti (se)
 izviti
 izvitie
 izvlačiti (se)
-izvlêĉi (se)
+izvlêći (se)
 izv'na
 iz'vnê
 izv'nьnь
@@ -4975,7 +4975,7 @@ izvolenie
 izvolenikь
 izvoliti (se)
 izvragь
-izvraĉati
+izvraćati
 izvrьgnuti
 izvrьgьkь
 izvrьženie
@@ -4985,7 +4985,7 @@ izvrьstiti
 izvrьstьnь
 izvrьtêti
 izvrêti
-izvrêĉi (se)
+izvrêći (se)
 izukь
 izvьnь
 izvьnna
@@ -5002,8 +5002,8 @@ izvêstovati
 izvêstь
 izvêtrêti
 izvêtь
-izvêĉati
-izvêĉenie
+izvêćati
+izvêćenie
 izganati
 izgarati (se)
 izgibati
@@ -5122,7 +5122,7 @@ izmlьknuti
 izmlêsti
 izmoliti se
 izmoriti
-izmoĉi
+izmoći
 izmrêti
 izmučiti (se)
 izm'čtati
@@ -5139,7 +5139,7 @@ iznahaždati
 iznašati (se)
 izndrêti
 iznemagati
-iznemoĉi
+iznemoći
 iznesti (se)
 izniknuti
 izniknutie
@@ -5165,7 +5165,7 @@ izostriti (se)
 izravnati
 izravniti
 izrasti
-izreĉi (se)
+izreći (se)
 izrečenie
 izrinuti
 izriti
@@ -5262,7 +5262,7 @@ inoplemenьnь
 inorogь
 inorožь
 inoskazaemь
-inoĉa
+inoća
 inocencii
 inocentь
 inočedь
@@ -5417,7 +5417,7 @@ ispadьnь
 ispasti (se)
 ispačiti
 ispelati
-ispeĉi
+ispeći
 ispisati
 ispitavati
 ispitanie
@@ -5432,7 +5432,7 @@ isplaviti
 isplavlevati se
 isplakati
 isplatiti
-isplaĉevati
+isplaćevati
 isplivati
 isploditi
 ispluti
@@ -5470,7 +5470,7 @@ isprati
 ispričati
 isprovoditi
 isprovrьženie
-isprovrêĉi (se)
+isprovrêći (se)
 isprozeblati
 ispromêtati
 isprositi (se)
@@ -5480,11 +5480,11 @@ ispruždaei
 isprьva
 isprêdь
 isprêdvzlêganie
-isprêmoĉi
+isprêmoći
 ispuditi
 ispuždenie
 ispustiti
-ispuĉati
+ispućati
 ispêti
 istaevati
 istaivati
@@ -5499,7 +5499,7 @@ istezati
 istezovati
 istesknuti
 isteti
-isteĉi
+isteći
 istina
 istinno
 istinnê
@@ -5519,7 +5519,7 @@ istlêvati
 istlênie
 istlênьnь
 istlêti
-istlêĉi
+istlêći
 isto
 istovina
 istovь
@@ -5532,7 +5532,7 @@ istočnikь
 istočьnь
 istratiti
 istresti
-istriĉi
+istrići
 istriê
 istrьgati
 istrьgnuti (se)
@@ -5551,10 +5551,10 @@ istrьti
 istukanьnь
 istupiti
 istupnikь
-ist'ĉavati
-ist'ĉati
-ist'ĉevati
-ist'ĉiti
+ist'ćavati
+ist'ćati
+ist'ćevati
+ist'ćiti
 istь
 ist'niti
 istьnčavati
@@ -5576,7 +5576,7 @@ is'hati
 ishititi
 is'hnuti
 ishoditi
-ishodiĉe
+ishodiće
 ishodnikь
 ishodnica
 ishodь
@@ -5597,7 +5597,7 @@ iscêlêti
 iscêniti
 is'sati
 isêkati
-isêĉi
+isêći
 itavoriê
 italii
 italikь
@@ -5606,20 +5606,20 @@ italiêninь
 iti
 itie
 ifasь
-iĉedie
-iĉezanie
-iĉezenie
-iĉezati
-iĉazati
-iĉeznovenie
-iĉeznuti
-iĉezovati
-iĉešlati
-iĉiniti
-iĉislьnь
-iĉisti
-iĉitati
-iĉitelь
+ićedie
+ićezanie
+ićezenie
+ićezati
+ićazati
+ićeznovenie
+ićeznuti
+ićezovati
+ićešlati
+ićiniti
+ićislьnь
+ićisti
+ićitati
+ićitelь
 ičrêpati
 išpalimь
 išpaniê
@@ -5785,7 +5785,7 @@ kapetolь
 kapitolinь
 kapitolь
 kapitulь
-kapiĉe
+kapiće
 kapicionь
 kapla
 kapoloniê
@@ -5938,7 +5938,7 @@ klasie
 klasti (se)
 klasь
 klati
-klaĉenie
+klaćenie
 kle
 kleveta
 klevetanie
@@ -5983,7 +5983,7 @@ kloštrь
 klьcati
 klьčьnь
 klêtь
-klêĉe
+klêće
 klûse
 klûčanica
 klûčanstvie
@@ -6035,8 +6035,8 @@ kozdroê
 kozdroi
 kozii
 kozle
-kozliĉevь
-kozliĉь
+kozlićevь
+kozlićь
 kozloglasovanie
 kozьlь
 kokinь
@@ -6198,9 +6198,9 @@ kotlь
 kotorati se
 kotoriižde
 kotь
-koĉuna
+koćuna
 košati se
-košiĉь
+košićь
 košnica
 koštь
 košula
@@ -6222,7 +6222,7 @@ kralevstvo
 kralevь
 kralica
 kralicь
-kraliĉь
+kralićь
 kraličinь
 kralь
 kramarь
@@ -6367,9 +6367,9 @@ krьtь
 krьhostь
 krьhьkь
 krьhьtьcь
-krьĉati (se)
-krьĉenie
-krьĉenica
+krьćati (se)
+krьćenie
+krьćenica
 krьšiti
 krêvati
 krêmь
@@ -6462,12 +6462,12 @@ kutьcь
 kuhanie
 kuhati
 kuhina
-kuĉa
-kuĉina
-kuĉica
+kuća
+kućina
+kućica
 kučica
 kušati
-kuĉь
+kućь
 k'hnuti
 kšancii
 kšersь
@@ -6516,7 +6516,7 @@ langratь
 landa
 lani
 lanita
-laniĉь
+lanićь
 laniê
 lankvearijь
 lanuti
@@ -6574,7 +6574,7 @@ lediogarь
 ledь
 ledenь
 ležati
-ležiĉe
+ležiće
 lejeonь
 lejionь
 lekati
@@ -6602,8 +6602,8 @@ letenie
 letьkь
 letêna
 letêti
-leĉa
-leĉi
+leća
+leći
 lecati (se)
 leča
 luča
@@ -6700,7 +6700,7 @@ lobizati
 lobzь
 lovitva
 loviti
-loviĉe
+loviće
 lovlenie
 lovrencь
 lovrêncь
@@ -6710,7 +6710,7 @@ lodovikь
 lože
 ložesna
 ložiti (se)
-ložiĉe
+ložiće
 ložnica
 ložničarь
 loza
@@ -6763,7 +6763,7 @@ lusaniê
 lustri
 lustrii
 lustrь
-luĉa
+luća
 lucii
 luciinь
 lucila
@@ -6786,7 +6786,7 @@ lučiti se
 lučь
 lьbь
 lьvica
-lьviĉiĉь
+lьvićićь
 lьvovь
 lьgati
 lьgostь
@@ -6819,9 +6819,9 @@ lьstьnь
 lьstьcь
 lьhko
 lьhkostь
-lьĉanie
-lьĉati (se)
-lьĉenie
+lьćanie
+lьćati (se)
+lьćenie
 lê
 lêvь
 lêzimakovь
@@ -6906,7 +6906,7 @@ lûbodêistvie
 lûbodêistvo
 lûbodêica
 lûbodêičinь
-lûbodêičiĉь
+lûbodêičićь
 lûbodêênie
 lûbodêênь
 lûbodêêti (se)
@@ -6997,8 +6997,8 @@ malodušьstvo
 maloživь
 maložiznьnь
 malomogi
-malomoĉь
-malomoĉьnь
+malomoćь
+malomoćьnь
 malomudrь
 malomь
 malostь
@@ -7136,8 +7136,8 @@ mahabêi
 mahaelь
 mahati
 mahometьskь
-maĉaha
-maĉerša
+maćaha
+maćerša
 macidonii
 marcedonь
 macêda
@@ -7274,7 +7274,7 @@ milostь
 milostьnь
 milota
 milotь
-miloĉa
+miloća
 milь
 mimo
 mimovesti
@@ -7283,8 +7283,8 @@ mimoiti
 mimoletêti
 mimonesti
 mimopustiti
-mimopuĉati
-mimoteĉi
+mimopućati
+mimoteći
 mimotêkati
 mimohoditi
 mimohoždenie
@@ -7402,7 +7402,7 @@ mьnьši
 mьnše
 m'niti se
 mnogašьdi
-mnogaĉi
+mnogaći
 mnogo
 mnogovrêmenьnь
 mnogoglagolanie
@@ -7445,7 +7445,7 @@ množьstvenь
 množьstvьnê
 mnênie
 mnêti
-mnêûĉe
+mnêûće
 moaviti
 moavitьskь
 moavitêne
@@ -7523,12 +7523,12 @@ motika
 motičica
 motuzьcь
 mohorь
-moĉi (se)
-moĉi
-moĉno
-moĉnostь
-moĉь
-moĉьnь
+moći (se)
+moći
+moćno
+moćnostь
+moćь
+moćьnь
 mocira
 moča
 močiti
@@ -7647,8 +7647,8 @@ mьstiti
 mьstnikь
 mьstь
 mьstьnь
-mьĉati
-mьĉenie
+mьćati
+mьćenie
 mьša
 mьškanie
 mьškati
@@ -7716,11 +7716,11 @@ navlastno
 navlastьnь
 navlasь
 navlastь
-navlaĉь
-navlaĉe
-navlaĉno
-navlaĉьnь
-navlaĉьstvo
+navlaćь
+navlaće
+navlaćno
+navlaćьnь
+navlaćьstvo
 navoditi (se)
 navodnati se
 navodnenie
@@ -7733,9 +7733,9 @@ navhodonosorovь
 navhodonosorь
 nabukodonosorь
 navêstiti
-navêĉati
-navêĉevati
-navêĉenie
+navêćati
+navêćevati
+navêćenie
 nagarovь
 naglavnikь
 naglavno
@@ -7763,7 +7763,7 @@ nadimati se
 nadkrivati
 nadmenie
 nadoblačati
-nadoblêĉi se
+nadoblêći se
 nadodanie
 nadodati
 nadoiti (se)
@@ -7861,7 +7861,7 @@ nakrьcati
 nakupь
 navkupь
 naležati
-naleĉi
+naleći
 nalecati
 naliti
 nalitie
@@ -7955,7 +7955,7 @@ naprasnstvo
 naprasnь
 naprešitь
 naprešno
-napreĉi (se)
+napreći (se)
 naprositi
 naprotivu
 naprêda
@@ -7983,7 +7983,7 @@ nareždati (se)
 nareždevati
 nareždenie
 nareždenikь
-nareĉi (se)
+nareći (se)
 narečenie
 narikati
 narinuti
@@ -8017,16 +8017,16 @@ nasilstvo
 nasilstvovati
 nasilьnь
 nasititi (se)
-nasiĉati (se)
-nasiĉevati
-nasiĉenie
+nasićati (se)
+nasićevati
+nasićenie
 naskorê
 naskočiti
 nasladiti (se)
 naslaždanie
 naslaždati (se)
 naslaždenie
-naslanaliĉe
+naslanaliće
 naslanati se
 naslonilo
 nasloniti se
@@ -8066,7 +8066,7 @@ nastoênie
 nastoêti (se)
 nastrašьnь
 nastrêti
-nastrêĉi
+nastrêći
 nastupati
 nastupiti
 nasue
@@ -8074,14 +8074,14 @@ nasuprotivь
 nasuprotivu
 nashititi
 nasьzdati
-nasêĉi
+nasêći
 nasêêti
 natanailь
 natanaelь
 nataniê
 natanovь
 natanь
-nateĉi
+nateći
 natečenie
 natkati
 nat'knuti
@@ -8105,7 +8105,7 @@ naučenie
 naučitelь
 naučitelьnь
 naučiti (se)
-nauĉati
+naućati
 nahabiti
 nahablati
 nahablevati
@@ -8159,7 +8159,7 @@ nebrêga
 nebrêgomь
 nebrêženie
 nebrêžno
-nebrêĉi
+nebrêći
 nevelênie
 neveselie
 neveselь
@@ -8186,7 +8186,7 @@ nevisokorodьnь
 nevji
 ninevjiê
 nevjitьskь
-nevjiĉanine
+nevjićanine
 nevodь
 nevola
 nevoleû
@@ -8201,7 +8201,7 @@ nevrêdno
 nevrêdnostь
 nevrêdostь
 nevrêdьnь
-nevrêdьĉina
+nevrêdьćina
 nevrêždenie
 nevrêždenь
 nevrêmenьnь
@@ -8239,7 +8239,7 @@ nevêstь
 nevêst'vstvo
 nevêstьstvie
 nevêstьcь
-nevêĉь
+nevêćь
 neg'benь
 negblь
 negiblimь
@@ -8361,8 +8361,8 @@ neistovstvo
 neistovь
 neistovna
 neishodьnь
-neiĉislьno
-neiĉislьnь
+neićislьno
+neićislьnь
 neiscêlenie
 neiscêlno
 neiscêlьnь
@@ -8380,7 +8380,7 @@ nekolastvo
 nekondinь
 nekosnenь
 nekrivь
-nekrьĉenь
+nekrьćenь
 nekrêpьkь
 neli
 nelicemêrie
@@ -8419,14 +8419,14 @@ nemlьčanie
 nemnêno
 nemoženie
 nemorie
-nemoĉnikь
-nemoĉno
-nemoĉ'stvo
-nemoĉь
-nemoĉьnь
+nemoćnikь
+nemoćno
+nemoć'stvo
+nemoćь
+nemoćьnь
 nemudrь
 nemučenь
-nemьĉenь
+nemьćenь
 nemênitelьnь
 nemêrьnь
 nenavidimь
@@ -8443,7 +8443,7 @@ nenakazanie
 nenakazanь
 nenaličьnь
 nenasitьnь
-nenasiĉenь
+nenasićenь
 nenaslêdomь
 nenaučenь
 nenevêsta
@@ -8468,7 +8468,7 @@ neoplakanь
 neoponosьnь
 neoskvrьnenь
 neoskudьnь
-neoskudêûĉii
+neoskudêûćii
 neoslabьnь
 neosolenь
 neostriženь
@@ -8478,7 +8478,7 @@ neotpustno
 neotpustьnь
 neotstupno
 neotstupьnь
-neocêĉenie
+neocêćenie
 nepametnikь
 nepametьnь
 nepečalьnь
@@ -8540,8 +8540,8 @@ nepotvrьždenь
 nepotrêbimь
 nepotrêbьnь
 nepoustno
-nepoĉeglь
-nepoĉedimь
+nepoćeglь
+nepoćedimь
 nepočteno
 nepravda
 nepravdie
@@ -8595,9 +8595,9 @@ neprêmênno
 neprêmênьnь
 neprêpodobьnь
 neprêstae
-neprêstaûĉe
+neprêstaûće
 neprêstaei
-neprêstaûĉii
+neprêstaûćii
 neprêstalьnь
 neprêstanie
 neprêstano
@@ -8613,8 +8613,8 @@ neptalimlь
 neptalimovь
 neptalimь
 neptarь
-nep'ĉevanie
-nep'ĉevati
+nep'ćevanie
+nep'ćevati
 neravnostь
 neravьnstvo
 neradivnê
@@ -8664,7 +8664,7 @@ nerukotvorenь
 nerušimь
 nerêi
 nerêsьnь
-nesveĉenь
+nesvećenь
 nesvrьšenь
 nesvêdьnь
 nesvêždьnь
@@ -8710,7 +8710,7 @@ nestoênie
 nestroenie
 nesuvьstvьnь
 nesuždenь
-nesuĉee
+nesućee
 nesьzdanь
 nesьslêdovatelьnь
 nesêêtelьnь
@@ -8731,7 +8731,7 @@ net'čьnь
 netьkmenostь
 netьkmenь
 netьkmina
-netьĉь
+netьćь
 netьêkь
 netêlesnê
 neubêžьnь
@@ -8741,7 +8741,7 @@ neuvêdaemь
 neuvêdimь
 neugasaemь
 neugasimь
-neugašaûĉь
+neugašaûćь
 neugodno
 neugodьnь
 neudoblenь
@@ -8760,7 +8760,7 @@ neumvenь
 neumlьčaemь
 neumьnkae
 neumênie
-neumêĉi
+neumêći
 neumrьvь
 neupvanie
 neupvati
@@ -8793,7 +8793,7 @@ nečistivê
 nečistie
 nečisto
 nečistota
-nečistoĉa
+nečistoća
 nečist'stvie
 nečistь
 nečistьcь
@@ -8829,7 +8829,7 @@ nizvesti
 nizvoditi
 nizvratiti
 nizvrьženie
-nizvrêĉi
+nizvrêći
 nizvêsiti
 nizgnati
 nizi
@@ -8884,7 +8884,7 @@ ninêšьnь
 ninašьnь
 nirati
 nirei
-niriĉe
+niriće
 nisii
 nisko
 nispadati
@@ -8893,11 +8893,11 @@ nispodolь
 nishoditi
 nishodь
 nishoždenie
-nihĉe
-niĉe
-niĉeta
-niĉetьnь
-niĉь
+nihće
+niće
+nićeta
+nićetьnь
+nićь
 nice
 nicebanskь
 nicicii
@@ -8918,7 +8918,7 @@ novoraslь
 novoroždenь
 novoroždьstvo
 novostь
-novĉina
+novćina
 novь
 noga
 nogavica
@@ -8929,7 +8929,7 @@ noevь
 noemanь
 noeminь
 noemina
-nožiĉь
+nožićь
 nožnica
 nožь
 nožьnь
@@ -8957,8 +8957,8 @@ nosь
 nosьnь
 notarь
 nohьtь
-noĉь
-noĉьnь
+noćь
+noćьnь
 nošenie
 nravno
 nravь
@@ -9027,7 +9027,7 @@ obvedriti
 obvesti
 obvivati
 obvitьkь
-obvrêĉi
+obvrêći
 obdaravati
 obdarati
 obdarenie
@@ -9046,10 +9046,10 @@ obeseliti (se)
 obetežiti
 obetšanie
 obetšati
-obeĉavati
-obeĉanie
-obeĉati
-obeĉevati
+obećavati
+obećanie
+obećati
+obećevati
 obžalovati
 obzidati
 obzidь
@@ -9076,7 +9076,7 @@ obimo
 obinovati se
 obinuti (se)
 obiskati
-obitaliĉe
+obitaliće
 obitalьnь
 obitanie
 obitatelь
@@ -9093,7 +9093,7 @@ običai
 običaino
 običainь
 običati
-obkraĉevati
+obkraćevati
 obkračiti
 obkrotiti
 oblagati
@@ -9108,7 +9108,7 @@ oblastno
 oblastьnь
 oblastь
 oblastêtelь
-oblaĉenie
+oblaćenie
 oblačati (se)
 oblačilnica
 oblačilo
@@ -9116,7 +9116,7 @@ oblačiti (se)
 oblačьnь
 oblačьcь
 obležati
-obleĉi
+obleći
 oblizovati
 obliscanie
 obliscati
@@ -9146,7 +9146,7 @@ oblêdênie
 oblêdêti
 oblênati se
 oblêniti se
-oblêĉi (se)
+oblêći (se)
 oblêčenie
 oblêčenь
 oblûbiti
@@ -9159,18 +9159,18 @@ obnažiti
 obnevidêti
 obnedužati
 obneêčati
-obniĉati
+obnićati
 obnovitelь
 obnoviti (se)
 obnovlenie
 obnositi
-obnoĉanie
-obnoĉь
+obnoćanie
+obnoćь
 obogatiti (se)
 obogatêti
-obogaĉati se
-obogaĉevati se
-obogaĉenie
+obogaćati se
+obogaćevati se
+obogaćenie
 oboženь
 oboi
 oboi na desete
@@ -9204,8 +9204,8 @@ obrasti
 obrati
 obratitelь
 obratiti (se)
-obraĉati (se)
-obraĉenie
+obraćati (se)
+obraćenie
 obrienie
 obrisati
 obrovь
@@ -9241,7 +9241,7 @@ obrêtatelь
 obrêtati (se)
 obrêtenie
 obrêteno
-obrêĉati
+obrêćati
 obsegati
 obsežati
 obsežimь
@@ -9257,7 +9257,7 @@ obstrêti
 obstupanie
 obsêdenie
 obsêsti
-obteĉi
+obteći
 obticati
 obtočiti
 obtupiti (se)
@@ -9274,7 +9274,7 @@ obuti (se)
 obutêlь
 obuhnuti
 obuhtêti
-obuĉa
+obuća
 obuêti
 obhaždati
 obhititi
@@ -9286,19 +9286,19 @@ obhodьnь
 ophodьnь
 obhoždenie
 ophoždenie
-obĉe
-opĉe
-obĉenie
-opĉenie
-obĉeno
-opĉeno
-obĉenь
-opĉenь
-obĉenьnь
-opĉenьnь
-obĉii
-opĉii
-obĉnikь
+obće
+opće
+obćenie
+općenie
+obćeno
+općeno
+obćenь
+općenь
+obćenьnь
+općenьnь
+obćii
+općii
+obćnikь
 obь
 obьlgati
 obligati
@@ -9330,21 +9330,21 @@ obêtovati
 obêtovь
 obêtь
 obêtьnь
-obêĉavanie
-obêĉati
+obêćavanie
+obêćati
 ovako
 ovamo
-ovaĉiniti
+ovaćiniti
 ovdê
 oveseliti se
 ovžde
 ovilь
 ovlьhovati
 ovo
-ovoĉie
-ovoĉnikь
-ovoĉnica
-ovoĉьnь
+ovoćie
+ovoćnikь
+ovoćnica
+ovoćьnь
 ovudu
 ovužde
 ovca
@@ -9366,7 +9366,7 @@ ogledati
 oglьhnuti
 oglьšiti
 ogniti
-ogniĉe
+ogniće
 ognoiti
 ognuti (se)
 og'nь
@@ -9415,7 +9415,7 @@ odêlo
 odênie
 odêtelь
 odêti (se)
-odêĉa
+odêća
 odêê
 odêênie
 odêêti
@@ -9429,8 +9429,8 @@ ožestočati
 ožestočiti
 ožestêti
 ožetie
-ožeĉati
-ožeĉi
+ožećati
+ožeći
 oživatelno
 oživiti
 oživlati
@@ -9493,9 +9493,9 @@ okopati
 okornikь
 okrasti
 okratiti
-okraĉati
-okraĉenie
-okraĉeno
+okraćati
+okraćenie
+okraćeno
 okriviti
 okrivlati
 okrilati
@@ -9696,10 +9696,10 @@ oponosьnь
 oponošenie
 oponь
 oponьkь
-oporeĉi
+oporeći
 oporutь
 oposrêdi
-opoteĉi
+opoteći
 opotikavь
 opotikanie
 opotikatelь
@@ -9735,11 +9735,11 @@ opustêti
 opustiti
 opustênie
 ophoždati
-opĉenьskь
-opĉina
-opĉinьnь
-opĉinьskь
-opĉiti
+općenьskь
+općina
+općinьnь
+općinьskь
+općiti
 opьênstvovati
 oraka
 oramento
@@ -9770,7 +9770,7 @@ oružati
 oruženie
 oružie
 oružienosьcь
-oružiliĉe
+oružiliće
 oružiti
 oružnikь
 oružьnь
@@ -9789,8 +9789,8 @@ osvaditi
 osvaždevati
 osvaždenie
 osvetiti
-osveĉati
-osveĉenie
+osvećati
+osvećenie
 osvitati
 osv'nuti
 osvoboditelь
@@ -9880,7 +9880,7 @@ osobь
 osobno
 osobьnь
 osoliti
-osramoĉenie
+osramoćenie
 ostaviti (se)
 ostavlati
 ostavlenie
@@ -9903,7 +9903,7 @@ ostriženie
 ostrizati
 ostrina
 ostriti
-ostriĉi
+ostrići
 ostrovь
 ostrogavь
 ostrogь
@@ -9943,7 +9943,7 @@ otainê
 otaênь
 otbavlenie
 otbranenie
-otbrêĉi
+otbrêći
 otbêgati
 otbêgnuti
 otbêgovati
@@ -9954,15 +9954,15 @@ otvalenie
 otvaliti
 otvarati
 otvesti
-otveĉavati
-otveĉanie
-otveĉati
-otveĉevati
-otveĉenie
+otvećavati
+otvećanie
+otvećati
+otvećevati
+otvećenie
 otviknuti
 otvlačenie
 otvlačiti
-otvlêĉi (se)
+otvlêći (se)
 otvlêčenie
 otvoditi
 otvorenie
@@ -9970,7 +9970,7 @@ otvoreno
 otvorenь
 otvoriti (se)
 otvratiti (se)
-otvraĉati (se)
+otvraćati (se)
 otvrьženie
 otvrьženikь
 otvrьždati
@@ -9981,7 +9981,7 @@ otvrьstie
 otvrьstovati
 otvrьstê
 otvrêsti (se)
-otvrêĉi (se)
+otvrêći (se)
 otvsuda
 otvsudu
 otvsudê
@@ -9989,7 +9989,7 @@ otvêtnikь
 otvêtnica
 otvêtь
 otvêtьnь
-otvêĉnikь
+otvêćnikь
 otganati
 otgnanie
 otgnati (se)
@@ -10085,7 +10085,7 @@ otmiti (se)
 ot'mniti
 ot'mnêti
 otmьstiti
-otmьĉenie
+otmьćenie
 otmêriti (se)
 otmêtati
 otmetati (se)
@@ -10095,7 +10095,7 @@ otneli
 otneliže
 otnelêže
 otnemagati (se)
-otnemoĉi (se)
+otnemoći (se)
 otnesti (se)
 otnikudь
 otnimanie
@@ -10122,7 +10122,7 @@ otpadenie
 otpasti
 otpirati
 otpisati
-otplaĉenie
+otplaćenie
 otplivati
 otplinuti
 otpovêdati
@@ -10136,9 +10136,9 @@ otpustitelь
 otpustiti (se)
 otpustь
 otpustьkь
-otpuĉatelь
-otpuĉati (se)
-otpuĉenie
+otpućatelь
+otpućati (se)
+otpućenie
 otp'hnuti
 otpêti
 otraviti
@@ -10151,7 +10151,7 @@ otreždevati
 otresati
 otresenie
 otresti
-otreĉi (se)
+otreći (se)
 otrečenie
 otrivati
 otrigati
@@ -10174,7 +10174,7 @@ otrokovica
 otrokorodica
 otrokь
 otroče
-otročiĉь
+otročićь
 otroč'stvie
 otroč'stvo
 otročьskь
@@ -10220,11 +10220,11 @@ otsunovanь
 otsêkati (se)
 otsêknuti
 otsêsti
-otsêĉi (se)
+otsêći (se)
 otsêčenie
 ottegnuti
 ottezati
-otteĉi
+otteći
 ottisnuti
 ottolê
 ottudu
@@ -10238,8 +10238,8 @@ othoditi
 othoždenie
 othranenie
 othraniti
-ot'ĉetiti (se)
-ot'ĉiti (se)
+ot'ćetiti (se)
+ot'ćiti (se)
 otcvisti
 otčaêti
 otčenašь
@@ -10252,7 +10252,7 @@ otšivati
 otšьstь
 otь
 otьvêvati
-otьmьĉenie
+otьmьćenie
 otьnčati
 otьnčiti
 otьcь
@@ -10268,7 +10268,7 @@ ofomêga
 ohladiti
 ohlaždenie
 ohlastati
-ohlaĉati
+ohlaćati
 ohlêbiti
 ohoditi
 ohoziinь
@@ -10287,10 +10287,10 @@ ohudêti
 ohuždenie
 ohuliti
 ohь
-oĉakь
-oĉasь
-oĉe
-oĉutiti
+oćakь
+oćasь
+oće
+oćutiti
 ocvirьkь
 ocvisti
 ocьtь
@@ -10299,8 +10299,8 @@ ocêpênêvati
 ocêpênêti
 ocêstitelь
 ocêstiti
-ocêĉati
-ocêĉenie
+ocêćati
+ocêćenie
 očaditi
 očestie
 očesьnь
@@ -10311,9 +10311,9 @@ očistь
 očito
 očit'stvo
 očitь
-očiĉati (se)
-očiĉavati
-očiĉenie
+očićati (se)
+očićavati
+očićenie
 očrьvleniti
 očrьvlenь
 očrьviti
@@ -10362,7 +10362,7 @@ pakostiti
 pakostovati
 pakostь
 pakostьnь
-pakoĉenie
+pakoćenie
 pakь
 pakêi
 facêi
@@ -10489,8 +10489,8 @@ patrovь
 paučina
 paučь
 pafь
-paĉiti se
-paĉsa
+paćiti se
+paćsa
 pače
 paša
 paštoralь
@@ -10567,14 +10567,14 @@ pet'čьnь
 petь
 petьkь
 peharnikь
-peĉedêti
-peĉera
-peĉerь
-peĉerьnь
-peĉi (se)
-peĉina
-peĉь
-peĉьnь
+pećedêti
+pećera
+pećerь
+pećerьnь
+peći (se)
+pećina
+pećь
+pećьnь
 peča
 pečaliti (se)
 pečalno
@@ -10659,10 +10659,10 @@ pitomь
 pitonь
 pitênie
 pitêti (se)
-piĉa
-piĉalь
-piĉьnь
-piĉьcь
+pića
+pićalь
+pićьnь
+pićьcь
 piêvica
 piêlь
 piênie
@@ -10687,11 +10687,11 @@ platnenь
 platno
 platonь
 plahta
-plaĉa
-plaĉati
-plaĉenie
-plaĉenica
-plaĉь
+plaća
+plaćati
+plaćenie
+plaćenica
+plaćь
 placarь
 placidiê
 placidь
@@ -10707,7 +10707,7 @@ plemenitь
 plemennikь
 plemenstvie
 plemenstvo
-plemenĉina
+plemenćina
 plemenьnь
 plesanie
 plesati
@@ -10722,7 +10722,7 @@ plestь
 plesь
 pletenie
 pletenica
-pleĉe
+pleće
 plivati
 plida
 plintovь
@@ -10745,7 +10745,7 @@ plugь
 plužina
 pluti
 plutie
-pluĉe
+pluće
 plьzati
 plьzenie
 plьzivь
@@ -10842,7 +10842,7 @@ povisêti
 poviti
 poviševati se
 povlakoma
-povlêĉi
+povlêći
 povoditi
 povodьnь
 povoevati se
@@ -10852,12 +10852,12 @@ povolstvie
 povolstvo
 povratitelьnь
 povratiti (se)
-povraĉati (se)
-povraĉenie
+povraćati (se)
+povraćenie
 povrevati
 povrьženie
 povrêsti
-povrêĉi (se)
+povrêći (se)
 povsudu
 povsudь
 povêdanie
@@ -10867,7 +10867,7 @@ povênčati
 povêsiti
 povêststvovati
 povêstь
-povêĉanie
+povêćanie
 pogaždati
 pogana
 poganati
@@ -10952,8 +10952,8 @@ podvizanie
 podvizati se
 podvlačiti
 podvratiti (se)
-podvraĉenie
-podvrêĉi
+podvraćenie
+podvrêći
 podgnêtiti
 podgradьskь
 poddatelь
@@ -10964,7 +10964,7 @@ poddьêkonь
 poddьêkь
 poddêêti
 podžakьnь
-pod(ь)žeĉi
+pod(ь)žeći
 podzakonь
 podzakonьnь
 podzglavie
@@ -10984,7 +10984,7 @@ podkloniti (se)
 podkopavati
 podkopati
 podležati
-podleĉi
+podleći
 podlogь
 podložiti (se)
 podlьgovatь
@@ -11030,7 +11030,7 @@ podstilati
 podstoêti
 podstrigati
 podstriženie
-podstriĉi
+podstrići
 podstrêkanie
 podstrêkatelь
 podstupiti
@@ -11059,7 +11059,7 @@ požarьnь
 poželênie
 poželêti
 požeti
-požeĉi
+požeći
 požgati
 požženь
 požigati
@@ -11101,10 +11101,10 @@ poznatelь
 poznati (se)
 poznatie
 pozobati
-pozoriĉe
+pozoriće
 pozorь
 pozrakь
-pozračiĉe
+pozračiće
 pozrьcati
 pozrênie
 pozrêti
@@ -11160,7 +11160,7 @@ pokoinь
 pokoinê
 pokoitelь
 pokoiti (se)
-pokoiĉe
+pokoiće
 pokolê
 pokolêbati se
 pokonnikь
@@ -11173,7 +11173,7 @@ pokorenie
 pokorivь
 pokoritelь
 pokoriti (se)
-pokoriĉe
+pokoriće
 pokorlivь
 pokornikь
 pokornê
@@ -11187,7 +11187,7 @@ pokrivenie
 pokrilь
 pokriti
 pokrovitelь
-pokroviĉe
+pokroviće
 pokrovь
 pokropiti
 pokroplenie
@@ -11233,7 +11233,7 @@ politi
 poličnica
 poliêti
 polma
-polnoĉь
+polnoćь
 polnь
 polovina
 polovica
@@ -11245,10 +11245,10 @@ polskь
 poludne
 poludьnie
 poludь(nь)nь
-polunoĉi
-polunoĉie
-polunoĉnie
-polunoĉь
+polunoći
+polunoćie
+polunoćnie
+polunoćь
 polь
 polьhku
 polьhčanie
@@ -11315,10 +11315,10 @@ pomožitelьnь
 pomoliti (se)
 pomorie
 pomoriti
-pomoĉi
-pomoĉnikь
-pomoĉnica
-pomoĉь
+pomoći
+pomoćnikь
+pomoćnica
+pomoćь
 pomračati se
 pomračenie
 pomračiti (se)
@@ -11342,8 +11342,8 @@ pomênьkь
 ponavlati se
 ponaplьniti
 ponapraviti
-ponareĉi
-ponaĉrьviti se
+ponareći
+ponaćrьviti se
 pongracii
 pondirь
 ponevrêditi
@@ -11391,19 +11391,19 @@ pookratiti
 poopravitelь
 poopraviti
 poostriti
-pooĉutiti
+pooćutiti
 popadati
 popalati
 popalevati
 popaliti
 popasti (se)
 popasti
-popaĉiti se
+popaćiti se
 popelati
 popelь
 popelьnь
 popeti
-popeĉi se
+popeći se
 popečaliti
 popira
 porirь
@@ -11442,15 +11442,15 @@ poprêdь
 poprêtiti
 popuditi
 popustiti
-popuĉati
-popuĉenie
+popućati
+popućenie
 popь
 poraba
 porabiti
 porablenie
 porabotati
 porabotiti
-poraboĉati (se)
+poraboćati (se)
 poradovati se
 poražanie
 poražati
@@ -11464,7 +11464,7 @@ poredica
 poredno
 porednê
 poredoma
-poreĉi
+poreći
 porečaninь
 porečenie
 porečь
@@ -11502,15 +11502,15 @@ posaditi se
 posaždati
 posaždivati
 posvariti
-posvetiliĉe
+posvetiliće
 posvetiti
-posveĉati
-posveĉevati
-posveĉenie
+posvećati
+posvećevati
+posvećenie
 posebê
 poseganie
 poseženie
-poseĉi
+poseći
 posilanie
 posilati
 posiliti
@@ -11520,7 +11520,7 @@ posipati
 poskvrьnevati
 poskvrьnenie
 poskvrьniti
-poskroviĉe
+poskroviće
 poskrunevati
 poskrunenie
 poskruniti
@@ -11571,7 +11571,7 @@ posobstvovati
 posobьcь
 posoliti
 pospati
-pospeĉьstvie
+pospećьstvie
 pospêvati (se)
 pospêti se
 pospêhovanie
@@ -11632,7 +11632,7 @@ postradati
 postraêti
 postrigati
 postriženie
-postriĉi
+postrići
 postroiti se
 postrьgati
 postrêkanie
@@ -11659,9 +11659,9 @@ posêsti
 posêtitelь
 posêtiti
 posêtovati
-posêĉati
-posêĉenie
-posêĉi
+posêćati
+posêćenie
+posêći
 posêêti
 potaevati
 potaenie
@@ -11685,7 +11685,7 @@ potežati
 potezati
 poteklьcь
 potetie
-poteĉi
+poteći
 potikavь
 potikanie
 potikati
@@ -11733,8 +11733,8 @@ potrêbьnь
 potrênie
 potužiti se
 potužnikь
-pot'ĉevati (se)
-pot'ĉiti se
+pot'ćevati (se)
+pot'ćiti se
 potь
 potьknenie
 potьknuti
@@ -11744,8 +11744,8 @@ potьmniti
 potьnku
 potьnčati
 potьnь
-potьĉanie
-potьĉati (se)
+potьćanie
+potьćati (se)
 potьčenie
 pougoditi
 poudvignuti (se)
@@ -11754,9 +11754,9 @@ poukrêpiti
 poulomiti
 poustitelь
 poustiti
-pouĉati
-pouĉevati
-pouĉenie
+poućati
+poućevati
+poućenie
 poučavati se
 poučati (se)
 poučevanie
@@ -11773,7 +11773,7 @@ pohvalenie
 pohvaliti
 pohvalitie
 pohititi
-pohiĉenie
+pohićenie
 pohoditi
 pohodь
 pohodьnь
@@ -11795,13 +11795,13 @@ pohudati
 pohulati
 pohulenie
 pohuliti
-poĉevati se
-poĉedati
-poĉedêti
-poĉedêêti
-poĉenie
-poĉьbtati
-poĉьptati
+poćevati se
+poćedati
+poćedêti
+poćedêêti
+poćenie
+poćьbtati
+poćьptati
 počekati
 počelnikь
 počelo
@@ -11901,10 +11901,10 @@ prasьcь
 pratelь
 prati (se)
 prahь
-praĉa
-praĉati
-praĉnikь
-praščiĉь
+praća
+praćati
+praćnikь
+praščićь
 prvênčati
 pre
 pregnuti
@@ -11941,7 +11941,7 @@ pribêgati
 pribêgnuti
 pribêgovati
 pribêžati
-pribêžiĉe
+pribêžiće
 privaliti
 privatusь
 privatušь
@@ -11957,10 +11957,10 @@ privilijь
 privlakь
 privlaka
 privlačiti
-privlêĉi
+privlêći
 privoditi
 privrьženie
-privrêĉi
+privrêći
 privêtь
 prigvoždati
 prigvoždenie
@@ -12009,7 +12009,7 @@ priematelьnь
 priemati
 priemnikь
 priemьnь
-prižeĉi
+prižeći
 prižženie
 prižiganie
 prižigati
@@ -12033,7 +12033,7 @@ priiektь
 priiskanie
 priiskati
 priiskovati
-priishodiĉe
+priishodiće
 priiti
 prikazanie
 prikazati
@@ -12070,13 +12070,13 @@ prilaskanie
 prilaskati
 priležanie
 priležati
-priležeĉe
+priležeće
 priležno
 priležnê
 priležьnь
 prilernii
 priletêti
-prileĉi
+prileći
 prilivati
 prilizati se
 prilika
@@ -12122,7 +12122,7 @@ primêšati (se)
 primêšenie
 prinavrьšenь
 prinaiti
-prinareĉi
+prinareći
 prinaricati
 prinahoditi
 prinašati
@@ -12139,12 +12139,12 @@ prinuždati
 principь
 prinčipь
 priobratiti
-priobraĉati
+priobraćati
 priobrêsti
 priobrêtati
 priobrêtenie
-priobrêĉi
-priobĉati
+priobrêći
+priobćati
 priodêvenь
 priotvoriti
 pripadati
@@ -12166,7 +12166,7 @@ pripodoblenie
 pripodoblenь
 pripodobьnь
 pripoložiti
-pripomoĉь
+pripomoćь
 priposilati
 priposlati
 priprava
@@ -12176,10 +12176,10 @@ pripravlenie
 pripravьnь
 priprašanie
 priprašati
-pripreĉi
-priproĉь
-priproĉьstvie
-priproĉьstvo
+pripreći
+priproćь
+priproćьstvie
+priproćьstvo
 pripuditi se
 pripustiti
 priputьnь
@@ -12187,7 +12187,7 @@ priravnati (se)
 priraziti
 prirasti
 priredьnь
-prireĉi
+prireći
 priricati
 prirokь
 prisvenuti
@@ -12196,7 +12196,7 @@ prisegati
 priseženie
 prisezati
 priseliti se
-priseĉi
+priseći
 prisiliti
 prisinoviti
 prisinovlenie
@@ -12214,8 +12214,8 @@ prislužiti
 prisno
 prisnodêva
 prisnosi
-prisnosuĉь
-prisnosuĉьnь
+prisnosućь
+prisnosućьnь
 prisnota
 prisobьnь
 prispêvati
@@ -12229,7 +12229,7 @@ pritavstvovati
 pristavь
 pristanenie
 pristanie
-pristaniĉe
+pristaniće
 pristanutie
 pristatelnikь
 pristatelnica
@@ -12257,23 +12257,23 @@ prisьnь
 prisьhnuti
 prisêdêti
 prisêtiti
-prisêĉanie
-prisêĉati
-prisêĉenie
+prisêćanie
+prisêćati
+prisêćenie
 pritvoriti (se)
 pritvorь
 pritvorьnь
 pritegnuti
 pritežatelь
 pritežati
-priteĉi
+priteći
 priti
 pritikati
 pritina
 pritiskati
 pritisnuti
 priticati
-pritlêĉi
+pritlêći
 pritrьti
 pritča
 pritčaêti
@@ -12292,7 +12292,7 @@ prihaždati
 prihitati
 prihoditelь
 prihoditi (se)
-prihodiĉe
+prihodiće
 prihodь
 prihodьkь
 prihodьnь
@@ -12307,15 +12307,15 @@ pričestnikь
 pričestnica
 pričestьnь
 pričeti
-pričeĉavati se
-pričeĉati (se)
-pričeĉevati (se)
-pričeĉenie
+pričećavati se
+pričećati (se)
+pričećevati (se)
+pričećenie
 pričinati (se)
 pričiniti
 pričisti (se)
 pričitati (se)
-pričuĉati
+pričućati
 pričьstnikь
 pričьtenie
 pričьtnikь
@@ -12364,19 +12364,19 @@ proviševati
 provoditi (se)
 provoždati
 provrьženie
-provrêĉi
+provrêći
 provьzvêstitelь
 provьzvêstiti
-provьzvêĉati
-provьzvêĉenie
+provьzvêćati
+provьzvêćenie
 provêdьcь
 provêdêti
 provêstiti
-provêĉavati
-provêĉanie
-provêĉati
-provêĉevati
-provêĉenie
+provêćavati
+provêćanie
+provêćati
+provêćevati
+provêćenie
 proganati
 proglagolati
 proglasiti
@@ -12463,7 +12463,7 @@ promênevati se
 promênenie
 promêniti (se)
 pronaznati
-pronareĉi
+pronareći
 pronarêkovati
 pronesti
 pronirivь
@@ -12485,7 +12485,7 @@ propisanie
 propisati
 proplakati (se)
 proplьzati (se)
-proplьĉenie
+proplьćenie
 propnutie
 propovaždati
 propovêdanie
@@ -12501,7 +12501,7 @@ prorazumь
 prorazumêti
 prorastenie
 prorasti
-proreĉi
+proreći
 prorečenie
 proricanie
 proricati (se)
@@ -12527,10 +12527,10 @@ prosvêtiti (se)
 prosvêtlati (se)
 prosvêtlevati (se)
 prosvêtliti (se)
-prosvêĉati (se)
-prosvêĉevati (se)
-prosvêĉenie
-prosvêĉenь
+prosvêćati (se)
+prosvêćevati (se)
+prosvêćenie
+prosvêćenь
 prosilosanь
 prosipati
 prositelь
@@ -12595,7 +12595,7 @@ prosêkь
 prosêdênie
 prosêkati
 prosêsti (se)
-prosêĉi
+prosêći
 protasii
 protaênie
 protaêti
@@ -12606,7 +12606,7 @@ protekstovь
 prošekstatovь
 protesati
 proteti se
-proteĉi
+proteći
 proti
 protiviti (se)
 protivlati (se)
@@ -12619,14 +12619,14 @@ protivnostь
 protivnê
 protivu
 protivugovorenie
-protivĉina
+protivćina
 protivь
 protivьnstvo
 protivьnь
 protinušь
 protlačiti
 protlьkovati
-protlêĉi
+protlêći
 protrьgivati se
 protrьgnenie
 protrьgnuti (se)
@@ -12651,7 +12651,7 @@ prohoditi
 prohodь
 prohoždenie
 prohorь
-proĉenie
+proćenie
 procvisti
 procvitati
 procêniti
@@ -12726,11 +12726,11 @@ prьstь
 prьstьnь
 prьsura
 prьtь
-prьĉavьcь
+prьćavьcь
 prêbalьda
 prêbarati
 prêbdêti
-prêbivaliĉe
+prêbivaliće
 prêbivanie
 prêbivatelno
 prêbivatelь
@@ -12760,7 +12760,7 @@ prêvelê
 prêveselo
 prêveselь
 prêvesti
-prêvzapuĉenь
+prêvzapućenь
 prêvzbožno
 prêvzboritelь
 prêvzvêstitelь
@@ -12777,14 +12777,14 @@ prêviševati
 prêvišii
 prêvišьnь
 prêvlačiti
-prêvlêĉi
+prêvlêći
 prêvlêčenie
 prêvoznikь
 prêvozь
 prêvratiti
 prêvratьnь
-prêvraĉati
-prêvraĉenie
+prêvraćati
+prêvraćenie
 prêvrêditi
 prêvьzvisiti
 prêvьzglasiti
@@ -12792,7 +12792,7 @@ prêvьziskati
 prêvьziti
 prêvьzlûbiti
 prêvьzlûblenь
-prêvьzmoĉi
+prêvьzmoći
 prêvьznašati
 prêvьshoditi
 prêvêrnê
@@ -12800,7 +12800,7 @@ prêvêrno
 prêvêrьnь
 prêvêstnikь
 prêvêtnikь
-prêvêĉati
+prêvêćati
 prêvêčьnь
 prêgibanie
 prêgibati (se)
@@ -12843,10 +12843,10 @@ prêdvratnie
 prêdv'rie
 prêdvorie
 prêdvьzvêstitelь
-prêdvьzvêĉati
-prêvzvêĉati
+prêdvьzvêćati
+prêvzvêćati
 prêdvьrь
-prêdvêĉenie
+prêdvêćenie
 prêdvêčьnstvo
 prêdglagolanie
 prêdgresti
@@ -12891,13 +12891,13 @@ prêdpostaviti
 prêdpostavlati
 prêdprošna
 prêdpustiti
-prêdpuĉati
+prêdpućati
 prêdpêvati
 prêdpêti
 prêdrago
 prêdragь
 prêdrevle
-prêdreĉi
+prêdreći
 prêdrьžati
 prêdrêti
 prêdskazati
@@ -12911,10 +12911,10 @@ prêdstupanie
 prêdstupati
 prêdstupiti
 prêdstêna
-prêdsuĉi
+prêdsući
 prêdsêdanie
 prêdsêdêti
-prêdteĉi
+prêdteći
 prêdteča
 prêdtečь
 prêdticati
@@ -12934,7 +12934,7 @@ prêžasiti se
 prêžganie
 prêžde
 prêždebivii
-prêždeblagobêvĉenь
+prêždeblagobêvćenь
 prêždevzlêganie
 prêždevpisanь
 prêždevêdênie
@@ -12969,7 +12969,7 @@ prêiskovati
 prêisplьniti se
 prêispodno
 prêispodьnь
-prêishodiĉe
+prêishodiće
 prêishodьnь
 prêiti
 prêkaniti
@@ -12987,7 +12987,7 @@ prêkoslovestvie
 prêkoslovie
 prêkrasьnь
 prêkratiti
-prêkraĉati
+prêkraćati
 prêkriviti
 prêkroiti
 prêkrotьkь
@@ -13023,9 +13023,9 @@ prêlьstiti
 prêlьstnikь
 prêlьstь
 prêlьstьnь
-prêlьĉati
-prêlьĉevati
-prêlьĉenie
+prêlьćati
+prêlьćevati
+prêlьćenie
 prêlêpь
 prêlêsti
 prêlûbi
@@ -13071,10 +13071,10 @@ prêmoženie
 prêmožitelь
 prêmož'stvo
 prêmožьnь
-prêmoĉi (se)
-prêmoĉnica
-prêmoĉno
-prêmoĉьnь
+prêmoći (se)
+prêmoćnica
+prêmoćno
+prêmoćьnь
 prêmračьnь
 prêmrьzьkь
 prêmrьsiti
@@ -13102,7 +13102,7 @@ prênaučitelno
 prênašati
 prênemaganie
 prênemagati
-prênemoĉi
+prênemoći
 prênesenie
 prênesti
 prênečistь
@@ -13123,7 +13123,7 @@ prêobraženie
 prêobraziti (se)
 prêobrazovati se
 prêobratiti
-prêobraĉenie
+prêobraćenie
 prêodolêti
 prêodrьžati
 prêostrь
@@ -13182,22 +13182,22 @@ prêprostь
 prêprosti
 prêprostьstvo
 prêprostê
-prêproĉe
-prêproĉenie
-prêproĉь
-prêproĉьstvie
-prêproĉьstvo
+prêproće
+prêproćenie
+prêproćь
+prêproćьstvie
+prêproćьstvo
 prêprêti
 prêprêčevati se
 prêpustiti
-prêpuĉenie
-prêpuĉьstvo
+prêpućenie
+prêpućьstvo
 prêpêvanie
 prêpêvati
 prêpêti
 prêrazumьnь
 prêredovьnь
-prêreĉi
+prêreći
 prêricati
 prêroditelь
 prêrotnikь
@@ -13279,7 +13279,7 @@ prêsьhnuti
 prêsêdêti
 prêsêkati
 prêsêkь
-prêsêĉi
+prêsêći
 prêta
 prêtba
 prêtbenь
@@ -13288,7 +13288,7 @@ prêtvoriti se
 prêtvrьdь
 prêtežati
 prêtežьkь
-prêteĉi
+prêteći
 prêteško
 prêti (se)
 prêtikanie
@@ -13338,8 +13338,8 @@ prêhoditi
 prêhodnica
 prêhrabrivь
 prêhraniti
-prêĉati
-prêĉenie
+prêćati
+prêćenie
 prêcelь
 prêcêlь
 prêcênьnь
@@ -13369,12 +13369,12 @@ psalьmskь
 psalьmь
 psaltirь
 pse
-psiĉь
+psićь
 psica
 psovanie
 psovati
 psura
-ptiĉь
+ptićь
 ptica
 ptičica
 ptičii
@@ -13424,19 +13424,19 @@ putьnь
 putьšьstie
 putišьstie
 puhliti
-puĉati
-puĉenie
-puĉenica
+pućati
+pućenie
+pućenica
 pučina
 pčela
 pšenica
 pšeničьnь
 pšenь
-pьgriĉe
+pьgriće
 pьklenь
 pьk'lь
-pьpriĉe
-prьpriĉe
+pьpriće
+prьpriće
 pьprь
 pьrьnь
 pьsii
@@ -13483,13 +13483,13 @@ rabii
 rabina
 rabininь
 rabiti
-rabičiĉь
+rabičićь
 rabota
 rabotanie
 rabotati (se)
 rabotnikь
 rabotьnь
-raboĉati
+raboćati
 ravva
 rav(v)i
 ravena
@@ -13518,14 +13518,14 @@ radovati se
 radostno
 radostь
 radostьnь
-radoĉa
+radoća
 radь
 ražgati
 ražda
 raždaliti si (se)
 raždati (se)
 raždeženie
-raždeĉi se
+raždeći se
 raždigati
 raždizanie
 raždizati se
@@ -13546,7 +13546,7 @@ razboinikь
 razboinica
 razboitlivь
 razboica
-razboiĉe
+razboiće
 razbolêti se
 razborь
 razbotêti
@@ -13562,18 +13562,18 @@ razvezati (se)
 razveličati
 razvidêti
 razviti
-razvlêĉi
+razvlêći
 razvratiti (se)
 razvratnikь
 razvratno
 razvratьnь
-razvraĉavati
-razvraĉati (se)
-razvraĉenie
-razvraĉeno
+razvraćavati
+razvraćati (se)
+razvraćenie
+razvraćeno
 razvrьzati
 razvrêsti (se)
-razvrêĉi (se)
+razvrêći (se)
 razvê
 razvêvati (se)
 razvêdênie
@@ -13816,11 +13816,11 @@ raspravlati
 raspravlenie
 rasprati
 rasprezanie
-raspreĉi
-rasprlaĉenь
+raspreći
+rasprlaćenь
 rasprostraniti se
 rasprostrêti
-rasproĉenь
+rasproćenь
 raspьrь
 rasprьžiti
 rasprêti se
@@ -13829,7 +13829,7 @@ raspuždati
 raspustiti
 raspustьnь
 rasputie
-raspuĉenie
+raspućenie
 rasrьditi se
 rasrьevati
 rastanakь
@@ -13845,7 +13845,7 @@ rastegnuti (se)
 rastezati
 rastenie
 rastesati
-rasteĉi se
+rasteći se
 rasti (se)
 rastirati
 rastislavь
@@ -13876,11 +13876,11 @@ rasuti se
 rasutie
 rashvatiti
 rashititi
-rashiĉati
-rashiĉevati
-rashiĉenie
-rashiĉnikь
-rashiĉьnь
+rashićati
+rashićevati
+rashićenie
+rashićnikь
+rashićьnь
 rashoditi
 rashrupati se
 rascvrêti
@@ -13893,24 +13893,24 @@ rasêvati
 rasêkati
 rasêsti
 rasêti
-rasêĉi
+rasêći
 rasêčenie
 rasêênie
 rasêêti
 ratai
 ratiti se
 ratnikь
-ratčiĉь
+ratčićь
 ratь
 ratьnь
 rafanь
 raha
 rahilinь
 rahilь
-raĉenie
-raĉesati (se)
-raĉiniti
-raĉisti
+raćenie
+raćesati (se)
+raćiniti
+raćisti
 račiti
 računati
 računь
@@ -13953,7 +13953,7 @@ resa
 respicii
 resь
 retorika
-reĉi (se)
+reći (se)
 recii
 rečenie
 riba
@@ -14286,7 +14286,7 @@ sbožnê
 sbož'stvie
 sbož'stvo
 sboi
-sboriĉe
+sboriće
 sborь
 sborьnь
 svada
@@ -14315,7 +14315,7 @@ sverêpьnь
 sverêpê
 svesti (se)
 svetba
-svetiliĉe
+svetiliće
 svetilo
 svetina
 svetini
@@ -14324,7 +14324,7 @@ svetitelstvovati
 svetitelь
 svetiti (se)
 svetica
-svetloĉь
+svetloćь
 svetodavьcь
 svetonahabnikь
 svetosvetь
@@ -14337,18 +14337,18 @@ svetotatьcь
 svetotvorie
 svetotvoriti
 svetotvorьcь
-svetoĉь
+svetoćь
 svetoč'stiti
 svetstvo
 svetь
 svetьcь
 svetê
-sveĉati se
-sveĉevati se
-sveĉenie
-sveĉenikь
-sveĉenstvo
-sveĉenohabьcь
+svećati se
+svećevati se
+svećenie
+svećenikь
+svećenstvo
+svećenohabьcь
 svivati
 sviditi se
 svila
@@ -14375,7 +14375,7 @@ sviêti se
 svlažiti
 svlasti
 svlačiti se
-svlêĉi (se)
+svlêći (se)
 svlêčenie
 svoboda
 svoboditi (se)
@@ -14384,12 +14384,12 @@ svobodno
 svobodnê
 svobodstvie
 svobodstvo
-svobodĉina
+svobodćina
 svobodь
 svobodьnь
 svobodьskь
 svoditi
-svodiĉe
+svodiće
 svoi
 svoistvnê
 svoistvo
@@ -14416,7 +14416,7 @@ svrьšitelno
 svrьšitelь
 svrьšitelьnь
 svrьšiti (se)
-svrêĉi
+svrêći
 sv'tênie
 sv'têti se
 svuzь
@@ -14457,7 +14457,7 @@ svêtlo
 svêtlozarьnь
 svêtlostь
 svêtlota
-svêtloĉa
+svêtloća
 svêt'lь
 svêtlê
 svêtnikь
@@ -14468,13 +14468,13 @@ svêtovati se
 svêtovьnь
 svêtь
 svêtьskь
-svêĉa
-svêĉavati
-svêĉanie
-svêĉati
-svêĉevati
-svêĉnakь
-svêĉnikь
+svêća
+svêćavati
+svêćanie
+svêćati
+svêćevati
+svêćnakь
+svêćnikь
 svêčьnь
 sgaždati se
 sgibati se
@@ -14533,7 +14533,7 @@ s'dêvati se
 s'dêlanie
 sdêlatelьnь
 s'dêlati
-s'dêlatêliĉe
+s'dêlatêliće
 s'dêlêvati se
 s'dêti
 s'dêšьnь
@@ -14655,7 +14655,7 @@ seti
 s'žaliti
 sžalovati
 s'žde
-s'žeĉi
+s'žeći
 sьžgati
 s'žigati
 s'žizati
@@ -14761,7 +14761,7 @@ sirovь
 sirota
 sirotinь
 sirot'stvie
-siroĉ'stvo
+siroć'stvo
 sirь
 sirêiski
 sirêčь
@@ -14775,7 +14775,7 @@ siti
 sititi (se)
 sitovь
 sitostь
-sitoĉa
+sitoća
 sitь
 sitênь
 sice
@@ -14852,13 +14852,13 @@ skorьnь
 skorê
 skote
 skotii
-skotopiĉьnь
+skotopićьnь
 skotь
 skotьnь
 skotьskь
 skočiti
 skratiti se
-skraĉenie
+skraćenie
 skrača
 skresati
 skrivati (se)
@@ -14869,8 +14869,8 @@ skrinica
 skriti (se)
 skričati
 skrovitelnica
-skroviĉe
-skroviĉitelnica
+skroviće
+skrovićitelnica
 skrovno
 skrovnostь
 skrovь
@@ -14960,12 +14960,12 @@ slati
 slatina
 slatinьnь
 slahka
-slaĉь
+slaćь
 slačьnь
 sledeniti
 sležati se
 sletêti se
-sleĉi
+sleći
 sliva
 slivati
 slina
@@ -14979,7 +14979,7 @@ sliêti se
 sloboda
 slobodno
 slobodnê
-slobodĉina
+slobodćina
 slobodь
 slobodьnь
 slovesьnь
@@ -15022,7 +15022,7 @@ slьnce
 slьn'čьnь
 slьnьčь
 s'lьstvo
-slêdeĉi
+slêdeći
 slêditelnica
 slêditelь
 slêditelьnь
@@ -15045,8 +15045,8 @@ smatrati se
 smesti se
 smetati (se)
 smetenie
-smetiĉe
-smetliĉe
+smetiće
+smetliće
 smetišnica
 smetna
 smikati se
@@ -15098,9 +15098,9 @@ smrêčevnica
 smrêčevьnь
 smutiti se
 smutna
-smuĉati (se)
-smuĉevati
-smuĉenie
+smućati (se)
+smućevati
+smućenie
 smьziti
 smêžiti
 smêlь
@@ -15132,7 +15132,7 @@ snaha
 snesti se
 sneti
 s'nie
-snikraviĉь
+snikravićь
 snimati (se)
 sniskati
 sniti (se)
@@ -15181,7 +15181,7 @@ sokratь
 sokrasь
 soldanovь
 solilo
-soliĉьskь
+solićьskь
 soomunovь
 solomunь
 solunьskь
@@ -15234,7 +15234,7 @@ spekulatorь
 spenžati se
 spenžaturnica
 speti
-speĉi
+speći
 spira
 spirati se
 spisanie
@@ -15299,7 +15299,7 @@ spužva
 spudь
 spuždenie
 spustiti
-spuĉati
+spućati
 spêti
 spêtь
 spêhь
@@ -15322,7 +15322,7 @@ sramota
 sramotiti
 sramotno
 sramotьnь
-sramoĉa
+sramoća
 sramь
 sramьnь
 sraspeti (se)
@@ -15335,8 +15335,8 @@ srebrьnь
 sredovitь
 sreždenie
 sretenie
-sreĉa
-sreĉьnь
+sreća
+srećьnь
 srinuti
 srodie
 srodьnь
@@ -15391,7 +15391,7 @@ sstarênie
 s'starêti se
 s'staêti se
 s'stignuti
-sstoiĉe
+sstoiće
 s'stoêti se
 s'strêlati
 sstupiti
@@ -15407,7 +15407,7 @@ s'sьcь
 s'sêdati se
 s'sêkati
 s'sêsti se
-s'sêĉi
+s'sêći
 stavilo
 staviti se
 stavlati
@@ -15423,7 +15423,7 @@ stamna
 stampati
 stanarica
 stanie
-staniĉe
+staniće
 stanovanie
 stanovati
 stanovito
@@ -15447,7 +15447,7 @@ starêišinstvo
 starêišinstvovati
 stati (se)
 stahui
-staĉiti
+staćiti
 stača
 stačunarь
 staêti se
@@ -15478,7 +15478,7 @@ stepenь
 stepenьnь
 stepliti (se)
 steti
-steĉi se
+steći se
 stečenie
 st'za
 stidênie
@@ -15500,10 +15500,10 @@ stlьmačenie
 stlьpostêna
 stlьpь
 stlênie
-stlêĉi
+stlêći
 sto
 stogь
-stoeĉe
+stoeće
 stožerь
 stokraticeû
 stokratь
@@ -15589,7 +15589,7 @@ strigat’
 strigon’sk’
 stridoniê
 striženie
-stričiĉ’
+stričić’
 stroenie
 stroi
 stroin’
@@ -15622,7 +15622,7 @@ str’mlenie
 str’moglaviti se
 str’moglavlenie
 str’moglav’
-str’niĉe
+str’niće
 str’nutie
 str’piv’
 str’p’tstvo
@@ -15646,8 +15646,8 @@ strêlati
 strêliti
 strêl’c’
 strêha
-strêĉi
-strêĉi (se)
+strêći
+strêći (se)
 stuga
 studeno
 studenč’n’
@@ -15673,7 +15673,7 @@ stupica
 stura
 stuhiê
 stuhie
-st'ĉati
+st'ćati
 s't’
 st’klenica
 st’n’
@@ -15702,12 +15702,12 @@ sugub’
 sugub’n’
 sudba
 sudiin’
-sudiliĉe
+sudiliće
 suditel’
 suditi (se)
 sudiê
 sudii
-sudiĉe
+sudiće
 sudol’
 sudruž'bnik’
 sudr’žati
@@ -15739,7 +15739,7 @@ sukno
 sukomor’n’
 sulii
 sulica
-sultiĉ’
+sultić’
 sulfur’
 sumna
 sumnost’
@@ -15771,10 +15771,10 @@ suprotivlenie
 suprotiva
 suprotivno
 suprotivu
-suprotivĉina
+suprotivćina
 suprotiv’
 suprotiv’n’
-suproĉ’
+suproć’
 suprug’
 sup'r’
 surabotnik’
@@ -15803,12 +15803,12 @@ suhem’
 suho
 suhota
 suh’
-suĉe
-suĉee
-suĉ'stvie
-suĉ'stvo
-suĉ'stveno
-suĉ’
+suće
+sućee
+suć'stvie
+suć'stvo
+suć'stveno
+suć’
 suč’c’
 suša
 sušati
@@ -15816,11 +15816,11 @@ sušenie
 sušica
 shabiti se
 shaždati
-shiĉati
+shićati
 shladiti
 s'hnuti
 shoditi se
-shodiĉe
+shodiće
 shodnik’
 shod’
 shoždenie
@@ -15830,7 +15830,7 @@ shranba
 shranevati (se)
 shranenie
 shraneno
-shraniliĉe
+shraniliće
 shranitel’
 shraniti se
 shran’
@@ -15871,7 +15871,7 @@ s’l’
 s’l’gati
 s’mziti
 s’nliv’
-s’nmiĉe
+s’nmiće
 s’n'mnica
 s'n’m’
 s’nnik’
@@ -15894,7 +15894,7 @@ sêvati
 sêverov’
 sêver’
 sêver’n’
-sêdaliĉe
+sêdaliće
 sêdalo
 sêdanie
 sêdilna
@@ -15930,7 +15930,7 @@ sêtovati
 sêtca
 sêt’
 sêt’n’
-sêĉi se
+sêći se
 sêčenie
 sêčivo
 sêč’
@@ -15956,7 +15956,7 @@ tadêi
 taenstven’
 tazi
 tai
-tailiĉe
+tailiće
 tailoma
 taina
 taino
@@ -15980,15 +15980,15 @@ tak’že
 talames’
 talan’t’
 talan’t’sk’
-taliĉ’
-taliĉ'stvo
+talić’
+talić'stvo
 taman’
 tamara
 tamar’
 tamo
 tamožde
 tamor’
-tamreĉ’
+tamreć’
 tanaisk’
 tanafêosov’
 tanei
@@ -16119,13 +16119,13 @@ tepu
 tepeši
 tet’
 teudas’
-teĉi (se)
+teći (se)
 tečenie
 teč’c’
 teško
 teškosr’d’
 teškost’
-teškoĉa
+teškoća
 ti
 tiatira
 tiatire
@@ -16170,10 +16170,10 @@ tir’
 tisov’
 tistamen’t’
 tisud’
-tisuĉa
-tisuĉi
-tisuĉnik’
-tisuĉ’n’
+tisuća
+tisući
+tisućnik’
+tisuć’n’
 tis’
 titanov’
 titlopisanie
@@ -16201,14 +16201,14 @@ tl’mačenie
 tl’mačiti se
 tl’mač’
 tl’stota
-tl’stoĉa
+tl’stoća
 tl’st’
-tl’ĉa
+tl’ća
 tl’čenie
 tlênie
 tlên’n’
 tlêti
-tlêĉi (se)
+tlêći (se)
 to
 tobiel’
 tobiin’
@@ -16234,7 +16234,7 @@ tolikokrat’
 tolik’
 tolicê
 tolicêm’
-toliĉ’
+tolić’
 tolma
 tolmi
 toloža
@@ -16247,7 +16247,7 @@ tonbina
 tonuti
 ton’
 topazion’
-toporiĉe
+toporiće
 torižano
 torica
 torkvatus’
@@ -16271,7 +16271,7 @@ trason’
 trat’
 trahonit’sk’
 traht’
-traĉenie
+traćenie
 traêti
 treverim’
 trenie
@@ -16297,7 +16297,7 @@ treheleon’
 trešlavica
 trešlavka
 tri
-tribihoviĉi
+tribihovići
 tribun’
 triglavnik’
 trideseti
@@ -16308,7 +16308,7 @@ tridnev’n’
 trid’n’n’
 trie
 triedin’n’
-trizmoĉ’
+trizmoć’
 triz’
 trikrat’
 trikrov’n’
@@ -16374,7 +16374,7 @@ tr’govin’
 tr’g’
 tr’ženie
 tr’žiti
-tr’žiĉe
+tr’žiće
 tr’žic’
 tr’žnik’
 tr’ž’n’
@@ -16406,7 +16406,7 @@ tr’st’n’
 tr’s’
 tr’ti
 trêba
-trêbiĉe
+trêbiće
 trêbnik’
 trêbovanie
 trêbovati
@@ -16420,7 +16420,7 @@ trêzveno
 trêzven’
 trêzvenê
 trêzviti se
-trêzviĉanin’
+trêzvićanin’
 trêzvo
 trêzvost’
 trêzmost’
@@ -16484,13 +16484,13 @@ tuč’n’
 tuč’niê
 tuškanin’
 tuškaniê
-t'ĉa
-t'ĉadno
-t'ĉad’
-t'ĉanie
-t'ĉati se
-t'ĉeslavie
-t'ĉeslavitel’
+t'ća
+t'ćadno
+t'ćad’
+t'ćanie
+t'ćati se
+t'ćeslavie
+t'ćeslavitel’
 t’
 t’dažde
 t’žde
@@ -16521,14 +16521,14 @@ t’nčina
 t’nčiti se
 t’n’k’
 t’st’
-t’ĉeslav’n’
-t’ĉeta
-t’ĉet’n’
-t’ĉivê
-t’ĉina
-t’ĉin’n’
-t’ĉiti se
-t’ĉ’
+t’ćeslav’n’
+t’ćeta
+t’ćet’n’
+t’ćivê
+t’ćina
+t’ćin’n’
+t’ćiti se
+t’ć’
 t’čiû
 t’čno
 t’č’n’
@@ -16542,7 +16542,7 @@ têlesno
 têlesnê
 têleso
 têles’n’
-têliĉe
+têliće
 têlo
 têlogub’c’
 têlopisanie
@@ -16624,9 +16624,9 @@ uveznuti
 uvezovati se
 uvez’
 uvenuti
-uveĉavati
-uveĉanie
-uveĉati (se)
+uvećavati
+uvećanie
+uvećati (se)
 uvi
 uvidêti (se)
 uviti
@@ -16736,7 +16736,7 @@ užas’
 uždenie
 uže
 užestiti
-užeĉi
+užeći
 uživanie
 uživatelno
 uživati
@@ -16765,7 +16765,7 @@ uz’k’
 uz’n’
 uiti
 uic’
-uičiĉ’
+uičić’
 ukazanie
 ukazati (se)
 ukazovati (se)
@@ -16781,7 +16781,7 @@ ukoreniti (se)
 ukorizna
 ukoriti
 ukor’
-ukošĉen’
+ukošćen’
 ukradati
 ukrasiti (se)
 ukrasti
@@ -16812,7 +16812,7 @@ uk’
 uk’snêti
 uk’šnenie
 ulavlati (se)
-uleĉi (se)
+uleći (se)
 ulika
 ulica
 ulišati
@@ -16886,8 +16886,8 @@ umr’tvie
 umr’tvii
 umr’tviti
 umr’tie
-umr’ĉvati
-umr’ĉvenie
+umr’ćvati
+umr’ćvenie
 umrêti
 umudrati
 umudriti (se)
@@ -16905,7 +16905,7 @@ um’nkati
 um’nkivati
 um’nkovati
 um’n’
-um’ĉenie
+um’ćenie
 umênie
 umêtelnê
 umêtel’n’
@@ -17004,7 +17004,7 @@ uroditi (se)
 urodstvo
 urod’
 urok’
-uročiĉe
+uročiće
 ursin’
 ursinii
 ursica
@@ -17057,7 +17057,7 @@ ustav’
 ustav’n’
 ustanoviti
 ustanovititi (se)
-ustanoviĉenie
+ustanovićenie
 ustati
 ustat’
 ustaêti
@@ -17086,7 +17086,7 @@ ustr’mlenie
 ustr’mlen’
 ustr’ptati
 ustrêliti
-ustrêĉi
+ustrêći
 ustuditi (se)
 ustupati
 ustupiti
@@ -17107,7 +17107,7 @@ usêknenie
 usêknovenie
 usêknuti (se)
 usêkovanie
-usêĉi
+usêći
 usêčenie
 utaiti (se)
 utakmen’
@@ -17129,7 +17129,7 @@ utežanie
 utežatelno
 utežati
 uteti
-uteĉi
+uteći
 utiti
 utkanie
 utkati
@@ -17180,9 +17180,9 @@ uhiliti
 uhititi
 uho
 uhraniti (se)
-uĉedrati
-uĉedriti
-uĉenie
+ućedrati
+ućedriti
+ućenie
 ucêniti
 učenie
 učenik’
@@ -17249,7 +17249,7 @@ feriêlsk’
 feriêl’
 fernard’
 fizik’
-filipoviĉ’
+filipović’
 filistima
 filli
 filoktimon’
@@ -17379,8 +17379,8 @@ hitro
 hitrost’
 hitr’c’
 hit’r’
-hiĉenie
-hiĉnik’
+hićenie
+hićnik’
 hlad’
 hlad’n’
 hlamida
@@ -17395,7 +17395,7 @@ hlêbar’
 hlêb’
 hlêb’n’
 hlêvina
-hlêviĉe
+hlêviće
 hobot’
 hovarsk’
 kobarsk’
@@ -17445,7 +17445,7 @@ hrana
 hranevati se
 hranenie
 hraneno
-hraniliĉe
+hraniliće
 hranilnik’
 hranilnica
 hranilo
@@ -17483,7 +17483,7 @@ hr’st’ênin’
 hr’st’ênica
 hr’st’ênstvo
 hr’st’ên’sk’
-hr’ĉenie
+hr’ćenie
 hudati
 hudo
 hudoba
@@ -17507,23 +17507,23 @@ husiê
 husiin’
 husêi
 hušanin’
-ĉap’
-ĉedrenie
-ĉedritel’
-ĉedriti (se)
-ĉedrovati
-ĉedrost’
-ĉedrota
-ĉedrotica
-ĉedr’
-ĉedr’stvovati
-ĉed’n’
-ĉedêti
-ĉen’c’
-ĉeta
-ĉiti (se)
-ĉit’
-ĉud’n’
+ćap’
+ćedrenie
+ćedritel’
+ćedriti (se)
+ćedrovati
+ćedrost’
+ćedrota
+ćedrotica
+ćedr’
+ćedr’stvovati
+ćed’n’
+ćedêti
+ćen’c’
+ćeta
+ćiti (se)
+ćit’
+ćud’n’
 cviliti
 cvisti
 cvêtie
@@ -17575,8 +17575,8 @@ ciril’
 cirinêi
 cirineên’
 cir’
-ciĉa
-ciĉ’
+cića
+cić’
 cicilii
 ciciliênin’
 ciciên’
@@ -17638,7 +17638,7 @@ cêsta
 čarênie
 časta
 čas’
-čaĉenie
+čaćenie
 čaša
 čaška
 čaênie
@@ -17706,8 +17706,8 @@ cêsta
 četr’tina
 četr’tič’
 čeh’
-čeĉa
-čeĉenie
+čeća
+čećenie
 češk’
 češuê
 češula
@@ -17732,10 +17732,10 @@ cêsta
 čistiti (se)
 čisto
 čistota
-čistoĉa
+čistoća
 čist’
 čistê
-čiĉenie
+čićenie
 čičinda
 čičinta
 član’
@@ -17778,7 +17778,7 @@ cêsta
 čr’n’
 čr’ta
 čr’tog’
-čr’ĉa
+čr’ća
 črêvo
 črêv’n’
 črêda
@@ -17829,7 +17829,7 @@ cêsta
 č’to
 č’t’n’
 č’t’c’
-č’ĉenie
+č’ćenie
 šabina
 šabinela
 šabin’
